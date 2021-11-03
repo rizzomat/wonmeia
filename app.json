@@ -1,0 +1,13 @@
+{
+    "name": "doi",
+    "repository": "https://github.com/innieg12/inginz",
+    "logo": "https://www.nginx.com/resources/wiki/_static/img/nginx-plus-icon.png",
+    "stack": "container",
+	"env": {
+      "APP_NAME" : {
+        "description": "name",
+                "value" : "",
+        "required" : true
+        }	
+    } 
+}
