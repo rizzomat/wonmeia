@@ -1,6 +1,6 @@
 {
-    "name": "doi",
-    "repository": "https://github.com/innieg12/inginz",
+    "name": "danzerfi",
+    "repository": "https://github.com/rizzomat/wonmeia",
     "logo": "https://www.nginx.com/resources/wiki/_static/img/nginx-plus-icon.png",
     "stack": "container",
 	"env": {
